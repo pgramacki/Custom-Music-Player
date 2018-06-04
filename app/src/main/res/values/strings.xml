@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyPlayer</string>
+    <string name="example_duration_time">06:32</string>
+    <string name="zero_time">00:00</string>
+    <string name="example_author">Author</string>
+    <string name="example_title">Title</string>
+    <string name="settings">SETTINGS</string>
+    <string name="about">ABOUT ME</string>
+    <string name="first_name">Piotr</string>
+    <string name="last_name">Gramacki</string>
+    <string name="loop_text">LOOPING</string>
+    <string name="next">AUTO NEXT PLAYING</string>
+    <string name="skip_prev">PREV</string>
+    <string name="skip_next">NEXT</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+</resources>
